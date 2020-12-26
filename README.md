@@ -26,35 +26,31 @@
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
-<!--
-
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/{dockerName}
-docker run -tid -p <port>:80 apachecn0/{dockerName}
+docker pull apachecn0/team-wiki
+docker run -tid -p <port>:80 apachecn0/team-wiki
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install {pypiName}
-{pypiName} <port>
+pip install team-wiki
+team-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g {npmName}
-{npmName} <port>
+npm install -g team-wiki
+team-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
-
--->
 
 ## 赞助我们
 
