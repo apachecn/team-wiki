@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 我们将像个弱者一样活着，像个弱者一样战斗，而且像个弱者一样消灭强者，过去如此，今后也是如此！承认吧，我们是弱者，正因为生来什么都没有，因此我拥有一切，以身为弱者而骄傲吧！——《游戏人生》
 
 * [在线阅读](https://wiki.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/team-wiki/)
