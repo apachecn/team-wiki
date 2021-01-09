@@ -290,3 +290,6 @@
     +   [九、制度的再生产](docs/america-against-america/10.md)
     +   [十、活跃的智慧](docs/america-against-america/11.md)
     +   [十一、危机的潜流](docs/america-against-america/12.md)
++   [跨年演讲](docs/跨年演讲/README.md)
+    +   [罗振宇 2021“时间的朋友”跨年演讲精华版全文](docs/跨年演讲/lzy2021.md)
+    +   [吴晓波：预见 2021（跨年演讲全文）](docs/跨年演讲/wxb2021.md)
