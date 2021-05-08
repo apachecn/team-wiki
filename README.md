@@ -8,11 +8,20 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/team-wiki/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 贡献指南
+## 目录
 
-本项目需要校对，欢迎大家提交 Pull Request。
-
-> 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
++   [5 分钟商学院精细笔记](docs/business-5min-notes/README.md)
++   [通往财富自由之路精细笔记](docs/the-way-to-wealth-freedom-notes/README.md)
++   [原则 · 中文版](docs/principles-zh/README.md)
++   [生活黑客](docs/生活黑客/README.md)
++   [两性](docs/两性/README.md)
++   [中国社会阶层调查研究](docs/中国社会调查研究/README.md)
++   [培训机构分析报告](docs/ti-analysis/README.md)
++   [美国反对美国](docs/america-against-america/README.md)
++   [跨年演讲](docs/跨年演讲/README.md)
++   [我在拼多多的三年](docs/pdd_3years.md)
++   [资本主义个人反抗指南](docs/资本主义个人反抗指南/README.md)
++   [缠中说禅 108 课](docs/chzhshch/README.md)
 
 ## 联系方式
 
