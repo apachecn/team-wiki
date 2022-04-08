@@ -23,11 +23,8 @@
 +   [资本主义个人反抗指南](docs/资本主义个人反抗指南/README.md)
 +   [缠中说禅 108 课](docs/chzhshch/README.md)
 
-## 联系方式
 
-### 负责人
 
-* [飞龙](https://github.com/wizardforcel): 562826179
 
 ### 其他
 
