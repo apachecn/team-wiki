@@ -22,7 +22,7 @@
 +   [我在拼多多的三年](docs/pdd_3years.md)
 +   [资本主义个人反抗指南](docs/资本主义个人反抗指南/README.md)
 +   [缠中说禅 108 课](docs/chzhshch/README.md)
-+   [应对生活的艰难](docs/Apply-to-the-hardships-of-life/README.md)
++   [应对生活的艰难](docs/Apply/README.md)
 
 
 
